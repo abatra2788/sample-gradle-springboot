@@ -7,8 +7,8 @@ plugins {
 
 sonarqube {
   properties {
-    property "sonar.projectKey", "github-gradle-springboot-sample"
-    property "sonar.organization", "abatra0206"
+    property "sonar.projectKey", "abatra2788_sample-gradle-springboot"
+    property "sonar.organization", "abatra2788"
     property "sonar.host.url", "https://sonarcloud.io"
   }
 }
